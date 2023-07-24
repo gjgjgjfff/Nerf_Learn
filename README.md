@@ -7,5 +7,5 @@
 [03.Nerf in the wild](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/03.Nerf%20in%20the%20wild.md)  
 [04.Mip-Nerf](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/04.Mip-Nerf.md) --数学公式还没看  
 [05.Mip-Nerf 360](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/05.Mip-Nerf%20360.md) --还没看  
-[06.Block-Nerf](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/06.Block-Nerf.md)
+[06.Block-Nerf](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/06.Block-Nerf.md)  
 [07.pixelNerf](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/07.pixelNerf.md)
