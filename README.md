@@ -11,3 +11,4 @@
 [07.pixelNerf](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/07.pixelNerf.md)  
 [08.Mega-Nerf](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/08.Mega-Nerf.md)  
 [09.BungeeNerf](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/09.BungeeNerf.md)  
+[10.Switch-Nerf](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/10.Switch-Nerf.md)  
