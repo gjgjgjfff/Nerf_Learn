@@ -12,3 +12,6 @@
 [08.Mega-Nerf](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/08.Mega-Nerf.md)  
 [09.BungeeNerf](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/09.BungeeNerf.md)  
 [10.Switch-Nerf](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/10.Switch-Nerf.md)  
+[11.Localrf](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/11.Localrf.md) --还没看  
+[12.GridNerf](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/12.GridNerf.md) --还没看  
+[13.NeuMan](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/13.NeuMan.md) --粗略看了下  
