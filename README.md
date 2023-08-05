@@ -15,6 +15,7 @@
 [09.BungeeNerf](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/09.BungeeNerf.md)  
 [10.Switch-Nerf](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/10.Switch-Nerf.md)  
 [12.GridNerf](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/12.GridNerf.md) --还没看  
+[15.URF](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/15.URF.md)  
 ### 少视角(Few-Shot)
 [07.pixelNerf](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/07.pixelNerf.md)  
 [14.FreeNerf](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/14.FreeNerf.md)  
