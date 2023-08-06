@@ -25,4 +25,4 @@
 [13.NeuMan(ECCV2022)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/13.NeuMan.md) --粗略看了下  
 
 ## Topic Summary
-### 大型场景重建
+[01.large-scene](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/topic%20summary/01.large-scene.md)  
