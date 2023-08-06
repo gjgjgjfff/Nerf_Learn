@@ -23,3 +23,6 @@
 [11.Localrf(CVPR2023)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/11.Localrf.md) --还没看  
 ### 人体重建
 [13.NeuMan(ECCV2022)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/13.NeuMan.md) --粗略看了下  
+
+## Topic Summary
+### 大型场景重建
