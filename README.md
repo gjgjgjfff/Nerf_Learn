@@ -22,7 +22,7 @@
 ### 可变形/动态场景新试图合成
 [16.D-Nerf(CVPR2021)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/16.D-Nerf.md)  
 ### Nerf三维重建
-[17.Nerf2Mesh(CVPR2023)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/17.Nerf2Mesh.md) --粗略看了下  
+[17.Nerf2Mesh(CVPR2023)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/17.Nerf2Mesh.md) --粗略看了下，看的不是很懂    
 ### 摆脱对精确相机pose的依赖新试图合成
 [11.Localrf(CVPR2023)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/11.Localrf.md) --还没看  
 ### 人体重建
