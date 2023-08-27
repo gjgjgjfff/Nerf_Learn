@@ -2,7 +2,7 @@
 学习Nerf相关
 
 ## Paper Summary
-### Nerf原文（Nerf只是进行新视图合成，如果想要三维重建，还是需要点云/voxel/mesh之类的3D场景表示）
+### Nerf原文
 [01.Nerf(ECCV2020)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/01.Nerf.md)  
 ### 无界/野外/不受限制场景新试图合成
 [02.Nerf++](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/02.Nerf%2B%2B.md)  
@@ -21,12 +21,15 @@
 [14.FreeNerf(CVPR2023)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/14.FreeNerf.md)  
 ### 可变形/动态场景新试图合成
 [16.D-Nerf(CVPR2021)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/16.D-Nerf.md)  
-### Nerf三维重建
-[17.Nerf2Mesh(CVPR2023)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/17.Nerf2Mesh.md) --粗略看了下，看的不是很懂    
+[19.ENerf(SIGGRAPH Asia 2022)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/19.ENerf.md) --粗略看了下，具体细节还要看代码
+### Nerf和显示的3D场景表达
+[17.Nerf2Mesh(CVPR2023)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/17.Nerf2Mesh.md) --粗略看了下，看的不是很懂  
 ### 摆脱对精确相机pose的依赖新试图合成
 [11.Localrf(CVPR2023)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/11.Localrf.md) --还没看  
 ### 人体重建
 [13.NeuMan(ECCV2022)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/13.NeuMan.md) --粗略看了下  
+### 透明外壳/物体
+[18.ReNeus(CVPR2023)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/18.ReNeus.md) --还没看完  
 
 ## Topic Summary
 [01.large-scene](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/topic%20summary/01.large-scene.md)  
