@@ -24,6 +24,7 @@
 [19.ENerf(SIGGRAPH Asia 2022)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/19.ENerf.md) --粗略看了下，具体细节还要看代码
 ### Nerf和显示的3D场景表达
 [17.Nerf2Mesh(CVPR2023)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/17.Nerf2Mesh.md) --粗略看了下，看的不是很懂  
+[20.Point-Nerf(CVPR2022 Oral)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/20.Point-Nerf.md)
 ### 摆脱对精确相机pose的依赖
 [11.Localrf(CVPR2023)](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/paper%20summary/11.Localrf.md) --还没看  
 ### 人体重建
