@@ -36,6 +36,6 @@
 ## Topic Summary
 [01.large-scene](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/topic%20summary/01.large-scene.md)  
 [02.Wild-scene](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/topic%20summary/02.Wild-scene.md)  
-[03.Few-Short](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/topic%20summary/03.Few-Short.md)  
+[03.Few-view](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/topic%20summary/03.Few-view.md)  
 [04.Deformable](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/topic%20summary/04.Deformable.md)  
 [05.Nerf-with-Mesh](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/topic%20summary/05.Nerf-with-Mesh.md)  
