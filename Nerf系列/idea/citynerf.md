@@ -11,7 +11,7 @@
   * 要一个阶段一个阶段的训练，后一阶段的训练必须等前一阶段的训练结束后才能开始，因为下一阶段要读取上一阶段的模型参数
   * 每个阶段都要输出上一个阶段的sigma、color和中间feature，这三个的输出还需要额外四个linear，四个阶段，就需要16个额外的linear，同样占用时间
 
-  ![image-20231020163726429](C:\Users\49381\AppData\Roaming\Typora\typora-user-images\image-20231020163726429.png)
+  ![image-20231020163726429](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/Nerf%E7%B3%BB%E5%88%97/imgs/citynerf/citynerf.jpg)
 
 ### 改进1：
 
@@ -22,7 +22,7 @@
 * 不分阶段，就用一个8x256的MLP，仅输出一次sigma、color和中间feature
 * 加入Tri plane，作为PE的补充，Tri plane是正交放置的三个平面，对于每个三维点，首先将其正交投影到这三个平面上，并通过双线性插值获得二维平面特征，这里平面选择的（128~2048*4，8个level，每个level的特征维度是2，即经过Tri plane，得到8 * 2 * 3=48维度特征）
 
-![image-20231020163704518](C:\Users\49381\AppData\Roaming\Typora\typora-user-images\image-20231020163704518.png)
+![image-20231020163704518](https://github.com/gjgjgjfff/Nerf_Learn/blob/main/Nerf%E7%B3%BB%E5%88%97/imgs/citynerf/gai1.jpg)
 
 （zbz一卡下BungeeNeRF/logs/train_all_Nerf_plane2）
 
